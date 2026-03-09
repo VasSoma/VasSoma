@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vasmatics Soma
-- 👀 I’m interested in Software Deleopment, Java, Linux, Networking and Cybersecurity
+- 👀 I’m interested in Software Deleopment, Java, Linux and Networking
 - 🌱 I’m currently studying Computer Science at University of Pannonia
 - 💞️ I have a Bachelor's Degree in Engeneering Management.
